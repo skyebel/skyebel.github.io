@@ -1,8 +1,3 @@
-/* ===================================================================
-   skylar belsher - personal academic homepage
-   Minimal, light, text-first - "academic Jekyll page" genre
-=================================================================== */
-
 :root {
   --bg: #faf9f6;
   --ink: #23262a;
@@ -48,8 +43,8 @@ hr { border: none; border-top: 1px solid var(--line); margin: 2.4rem 0; }
 .masthead { text-align: center; }
 
 .portrait {
-  width: 120px;
-  height: 120px;
+  width: 140px;
+  height: 140px;
   margin: 0 auto 1.2rem;
   border-radius: 50%;
   background: var(--ink);
